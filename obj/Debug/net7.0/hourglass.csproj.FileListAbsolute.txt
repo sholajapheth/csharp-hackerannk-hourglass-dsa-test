@@ -1,0 +1,15 @@
+/home/weevil/Documents/_c#/hourglass/bin/Debug/net7.0/hourglass
+/home/weevil/Documents/_c#/hourglass/bin/Debug/net7.0/hourglass.deps.json
+/home/weevil/Documents/_c#/hourglass/bin/Debug/net7.0/hourglass.runtimeconfig.json
+/home/weevil/Documents/_c#/hourglass/bin/Debug/net7.0/hourglass.dll
+/home/weevil/Documents/_c#/hourglass/bin/Debug/net7.0/hourglass.pdb
+/home/weevil/Documents/_c#/hourglass/obj/Debug/net7.0/hourglass.csproj.AssemblyReference.cache
+/home/weevil/Documents/_c#/hourglass/obj/Debug/net7.0/hourglass.GeneratedMSBuildEditorConfig.editorconfig
+/home/weevil/Documents/_c#/hourglass/obj/Debug/net7.0/hourglass.AssemblyInfoInputs.cache
+/home/weevil/Documents/_c#/hourglass/obj/Debug/net7.0/hourglass.AssemblyInfo.cs
+/home/weevil/Documents/_c#/hourglass/obj/Debug/net7.0/hourglass.csproj.CoreCompileInputs.cache
+/home/weevil/Documents/_c#/hourglass/obj/Debug/net7.0/hourglass.dll
+/home/weevil/Documents/_c#/hourglass/obj/Debug/net7.0/refint/hourglass.dll
+/home/weevil/Documents/_c#/hourglass/obj/Debug/net7.0/hourglass.pdb
+/home/weevil/Documents/_c#/hourglass/obj/Debug/net7.0/hourglass.genruntimeconfig.cache
+/home/weevil/Documents/_c#/hourglass/obj/Debug/net7.0/ref/hourglass.dll
